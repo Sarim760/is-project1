@@ -13,7 +13,7 @@ class StegoApp extends StatelessWidget {
     return MaterialApp(
       title: 'Text Steganography',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home:HomePage(),
+      home: HomePage(),
       debugShowCheckedModeBanner: false,
     );
   }
